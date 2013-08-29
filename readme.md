@@ -1,6 +1,6 @@
 # Metaphor Ipsum Workflow
 
-This is a workflow that helps quickly generate Metaphor Ipsum. 
+This is a workflow that helps quickly generate [Metaphor Ipsum](http://metaphorpsum.com). 
 
 Typing in ipsum is the default function. A number following that will copy plain text paragraphs. For instance "ipsum 1" would result in:
 
