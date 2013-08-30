@@ -1,0 +1,1 @@
+curl http://metaphorpsum.com/paragraphs/{query} | pbcopy;
